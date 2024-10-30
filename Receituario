@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<receituario>
+    <medico>
+        <nome>Dr. João Silva</nome>
+        <crm>12345</crm>
+    </medico>
+    <paciente>
+        <nome>Maria Oliveira</nome>
+    </paciente>
+    <data>2024-10-30</data>
+    <medicamentos>
+        <medicamento>
+            <nome>Paracetamol</nome>
+            <dosagem>500mg</dosagem>
+        </medicamento>
+        <medicamento>
+            <nome>Amoxicilina</nome>
+            <dosagem>250mg</dosagem>
+        </medicamento>
+    </medicamentos>
+</receituario>
